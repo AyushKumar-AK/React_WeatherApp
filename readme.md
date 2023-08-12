@@ -1,5 +1,6 @@
 # Demo:
-![image](https://github.com/AyushKumar-AK/React_WeatherApp/assets/101948218/0ba93102-e18a-4972-a5bd-effa6dad0f2a)
+![Screenshot 2023-08-13 002842](https://github.com/AyushKumar-AK/React_WeatherApp/assets/101948218/9a56d41b-9be9-4a20-b583-9479563c5ce1)
+
 
 ## Setup
 
