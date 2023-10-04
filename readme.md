@@ -5,7 +5,7 @@
 ## Setup
 
 ```
-npm i && npm start 
+npm i && npm start (make sure all packages are installed)
 ```
 or 
 ```
